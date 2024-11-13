@@ -1,0 +1,68 @@
+
+
+.audi-q6{
+    display: flex;
+    background-image: url(https://www.audi.com.br/content/dam/nemo/models/q6-e-tron/q6-e-tron/my-2025/stage/Q6_2023_5202-v2-L.jpg?width=1440);
+    height: 570px;
+}
+
+.text-q6{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 40px 0px 0px 40px;
+}
+
+.text-q6 h2{
+    font-size: 30px;
+    color: black;
+    line-height: 44px;
+}
+
+.text-q6 p{
+    font-size: 18px;
+    font-weight: 700;
+    color: rgb(51, 51, 51);
+}
+
+.btns-q6{
+    display: flex;
+    gap: 2px;
+
+}
+
+
+.btn-saiba{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 58px;
+    background-color: black;
+}
+
+.btn-saiba a{
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+
+    transition: all .3s;
+}
+
+.btn-saiba:hover{
+ background-color: rgba(0, 0, 0, 0.548);
+}
+
+
+
+.btn-saiba2{
+    display: flex;
+    width: 238px;
+    border: 1px solid black;
+    background-color: white;   
+}
+
+.btn-saiba2 a {
+    color: black;
+    font-weight: 500;
+}
