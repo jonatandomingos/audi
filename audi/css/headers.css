@@ -1,0 +1,39 @@
+
+
+.headers{
+    display: flex;
+    height: 72px;
+    width: 100%;
+    background-color: white;
+}
+
+
+.container-headers{
+    display: flex;
+    justify-content: center;
+   gap: 500px;
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding-left: 60px;
+}
+
+.list span{
+    font-size: 16px;
+    color: black;
+    font-weight: 300;
+    font-family: var(--audi);
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+
